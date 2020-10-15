@@ -1,0 +1,14 @@
+ * {
+   border-style: dotted;
+   border-width: thin;
+ }
+
+.board-cell {
+  height: 200px;
+  font-size: 100px;
+  text-align: center;
+}
+
+.board {
+  margin-top: 2em;
+}
