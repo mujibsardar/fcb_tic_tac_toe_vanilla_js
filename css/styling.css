@@ -1,14 +1,21 @@
- * {
-   border-style: dotted;
-   border-width: thin;
- }
-
 .board-cell {
   height: 200px;
   font-size: 100px;
   text-align: center;
+  border-style: solid; 
 }
 
 .board {
   margin-top: 2em;
+  border-style: solid;
+}
+
+.button-div {
+    text-align: center;
+    margin-top: 2em;
+}
+
+.reset-button {
+  width: 8em;
+  height: 4em;
 }
